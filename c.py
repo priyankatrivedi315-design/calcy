@@ -1,4 +1,7 @@
 import tkinter as tk
+git add .
+git commit -m "Added requirements.txt"
+git push
 
 # Button layout
 button_values = [
