@@ -1,6 +1,4 @@
 import tkinter as tk
-git add .
-
 
 # Button layout
 button_values = [
